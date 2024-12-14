@@ -1,4 +1,4 @@
-import 'package:campusify/business_logic/cubits/cubit/select_option_cubit.dart';
+import 'package:campusify/business_logic/cubits/SelectOptionCubit/select_option_cubit.dart';
 import 'package:campusify/constants/colors.dart';
 import 'package:campusify/constants/extensions.dart';
 import 'package:campusify/constants/sizes.dart';

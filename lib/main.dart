@@ -1,6 +1,6 @@
 import 'package:campusify/business_logic/cubits/LoadEvents/load_events_cubit.dart';
 import 'package:campusify/business_logic/cubits/LoginSignUp/log_in_sign_up_cubit.dart';
-import 'package:campusify/business_logic/cubits/SelectOption/select_option_cubit.dart';
+import 'package:campusify/business_logic/cubits/SelectOptionCubit/select_option_cubit.dart';
 import 'package:campusify/business_logic/cubits/SwitchPasswordVisibility/switch_password_visibility_cubit.dart';
 import 'package:campusify/business_logic/cubits/Timer/timer_cubit.dart';
 import 'package:campusify/constants/theme.dart';
